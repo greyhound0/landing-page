@@ -18,7 +18,7 @@ function Header() {
           need to launch it with creativity.
         </p>
         <a
-          href="https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf"
+          href="https://www.pdfdrive.com/download.pdf?id=18668527&h=4f5dfa4997903e0e727113d7570962e2&u=cache&ext=pdf"
           className="cv-btn"
           download
         >
