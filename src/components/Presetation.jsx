@@ -5,8 +5,11 @@ function Presetation() {
     <div id="presentation">
       <h1>UI Presentation</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, rem!
-        Aliquam sed laudantium veniam iste repudiandae iusto fugit
+        The user interface (UI) of an application or website is a critical
+        element that can make or break user experience. UI presentation involves
+        designing a layout and style that is visually appealing and
+        user-friendly, allowing users to easily navigate and interact with the
+        application.
       </p>
     </div>
   );
