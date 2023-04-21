@@ -11,12 +11,13 @@ function Header() {
           <span>Launch Your App</span> With Creativity
         </h1>
         <p className="details">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident
-          magnam itaque nobis quasi vero iusto quam quo. Sapiente excepturi,
-          nisi blanditiis dolorem dicta, itaque ullam esse, facilis pariatur
-          magnam accusamus.
+          Launching a new app can be an exciting and daunting experience. While
+          there are countless apps available on app stores, only a few of them
+          manage to catch the user's attention and become successful. If you
+          want to make sure that your app is not lost in the sea of apps, you
+          need to launch it with creativity.
         </p>
-        <a href="#" className="cv-btn" download={website_creation}>
+        <a href="./website-creation.pdf" className="cv-btn" download>
           Download
         </a>
       </div>
