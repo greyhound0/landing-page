@@ -16,7 +16,7 @@ function Header() {
           nisi blanditiis dolorem dicta, itaque ullam esse, facilis pariatur
           magnam accusamus.
         </p>
-        <a href="#" className="cv-btn" download={website_creation}>
+        <a href="../images/website-creation.pdf" className="cv-btn" download>
           Download
         </a>
       </div>
