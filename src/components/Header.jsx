@@ -17,7 +17,11 @@ function Header() {
           want to make sure that your app is not lost in the sea of apps, you
           need to launch it with creativity.
         </p>
-        <a href="website-creation.pdf" className="cv-btn" download>
+        <a
+          href="https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf"
+          className="cv-btn"
+          download
+        >
           Download
         </a>
       </div>
