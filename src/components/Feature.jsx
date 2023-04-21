@@ -4,7 +4,7 @@ import feautureimage from "../images/feature_1.png";
 import feautureimage1 from "../images/feature_2.png";
 import feautureimage2 from "../images/feature_3.png";
 
-function Features() {
+function Feature() {
   return (
     <div id="features">
       <div className="a-container">
@@ -16,4 +16,4 @@ function Features() {
   );
 }
 
-export default Features;
+export default Feature;

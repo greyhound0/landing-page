@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./components/Header";
-import Features from "./components/Features";
+import Feature from "./components/Feature";
 import About from "./components/About";
 import aboutimage from "./images/Frame 19.png";
 import aboutimage1 from "./images/download.png";
@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Features />
+      <Feature />
       <About
         image={aboutimage}
         title="Comes with all your need for daily life"
