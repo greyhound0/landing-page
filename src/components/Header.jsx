@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
+import website from "../images/website-creation.pdf";
 
 function Header() {
   return (
@@ -15,7 +16,7 @@ function Header() {
           nisi blanditiis dolorem dicta, itaque ullam esse, facilis pariatur
           magnam accusamus.
         </p>
-        <a href="#" className="cv-btn">
+        <a href="#" className="cv-btn" download={website}>
           Download
         </a>
       </div>
