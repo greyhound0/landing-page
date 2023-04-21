@@ -17,9 +17,13 @@ function Navbar() {
       <a href="#" className="logo">
         <img src={logo} alt="" />
       </a>
-      <input type="ckeckbox" className="maenu-btn" id="menu-btn" />
-      <label className="menu-icon" id="menu-icon">
-        {" "}
+      <label className="menu-icon" for="menu-btn">
+        <input
+          type="ckeckbox"
+          className="menu-btn"
+          id="menu-btn"
+          checked={true}
+        />
         <span className="nav-icon"></span>
       </label>
 

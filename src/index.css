@@ -558,7 +558,7 @@ nav .menu-btn,
     top: 0;
   }
   nav .menu-btn {
-    display: none;
+    visibility: hidden;
   }
   nav .menu-btn:checked ~ .menu {
     display: block;
